@@ -1,2 +1,4 @@
 ADD
 MUL
+SUB
+
